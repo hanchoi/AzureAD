@@ -1,6 +1,7 @@
 Azure AD에 대한 전반적인 내용을 소개드렸으니 이제 본격적으로 Azure AD를 사용하는 방법에 대해 알아볼까 합니다. 
 소개드릴 문서는 ['Azure Active Directory 개발자 가이드'](https://docs.microsoft.com/ko-kr/azure/active-directory/active-directory-developers-guide) 입니다. 주요 기능에 대한 설명과, 지원 플랫폼별로 가이드 문서가 잘 정리되어 있어 천천히 읽어보실만 합니다.
-![Supported Platform](/AzureAD/2. Azure AD 개발자 가이드/AzureAD-Platforms.PNG ) 
+
+![Supported Platform](https://github.com/hanchoi/AzureAD/blob/master/2.%20Azure%20AD%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C/AzureAD-Platforms.PNG) 
 
 위 문서를 요약하자면 우선 개요로 총 다섯가지의 문서를 안내합니다. 각각의 내용은 아래와 같습니다. 
 
